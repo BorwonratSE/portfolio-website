@@ -12,3 +12,6 @@ Lab Objectives
 
 
 https://htmlpreview.github.io/?https://github.com/BorwonratSE/portfolio-website/blob/main/index.html
+---
+Part 2: Pair Programming Features 
+คนทำงานร่วมกันและแบ่งหน้าที่การทำงาน
